@@ -22,5 +22,12 @@ Not working at first, found that images folder under libraries, should take it o
 
 - for (let i = 0; i < 50; i++) { // Increase the number of rectangles drawn per frame
 
+### reference: https://p5js.org/reference/p5.Framebuffer/pixels/
+
+<img width="1061" alt="截屏2025-01-19 下午9 53 15" src="https://github.com/user-attachments/assets/c1e82567-e9e2-4433-bd0f-a6dfcff4cc20" />
+
+
 #### asked chatgpt how to make sketch faster
 <img width="737" alt="截屏2025-01-16 下午1 29 38" src="https://github.com/user-attachments/assets/225615f7-008d-4a8b-8418-f0e25a47a7d4" />
+
+- 

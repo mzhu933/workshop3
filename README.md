@@ -18,12 +18,12 @@ image
 ## - Problem solving:
 Not working at first, found that images folder under libraries, should take it out. 
 
-## - practice of pixel
+## - Practice of pixel
 <img width="1231" alt="截屏2025-01-16 下午1 26 55" src="https://github.com/user-attachments/assets/afeda2db-9517-47f8-afca-87cf053ccddb" />
 
 - for (let i = 0; i < 50; i++) { // Increase the number of rectangles drawn per frame
 
-## - reference: 
+## - Reference: 
 - https://p5js.org/reference/p5.Framebuffer/pixels/
 
 <img width="1061" alt="截屏2025-01-19 下午9 53 15" src="https://github.com/user-attachments/assets/c1e82567-e9e2-4433-bd0f-a6dfcff4cc20" />
@@ -32,8 +32,8 @@ Not working at first, found that images folder under libraries, should take it o
 ## - asked chatgpt how to make sketch faster
 <img width="737" alt="截屏2025-01-16 下午1 29 38" src="https://github.com/user-attachments/assets/225615f7-008d-4a8b-8418-f0e25a47a7d4" />
 
-## - reflection
-- The image code is really fun, as it randomly shows three different images each time, making every experience unique. I enjoy adjusting the background color, which adds flexibility to the design.
+## - Reflection
+- The image code is really fun, as it randomly shows three different images each time, making every experience unique. I enjoy adjusting the background color, which adds flexibility to the design. I didn’t add the pixel function in this code (link) because I felt it made the images blurry and hard to see. I think it’s fun and cute as it is now. However, I did try using pixels in another sketch and have included a screenshot in README above.
 - For further development, I’d like to experiment with using GIFs to add movement and learn how to adjust image colors. This would give me more control over the visual effects and allow me to create more personalized outcomes.
 
 
